@@ -22,6 +22,7 @@
 
 - [Overreacted](https://overreacted.io/) 리덕스의 창시자, 댄 아브라모프의 개인 블로그
 - [React-LifeHooks](https://www.hooks.guide/) 리액트 라이프사이클 훅 관련 테스트 
+- [React Study] (https://github.com/reactkr/learn-react-in-korean) 리액트 한국어관련하여 공부할수 있는 
 ## Data Structures & Algorithms
 
 - [Visualgo](https://visualgo.net/)
