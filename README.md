@@ -17,6 +17,7 @@
 - [Understanding the "this" keyword](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [latentflip.com](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Event Loop
 - [Poima Web](https://poiemaweb.com/) - 자바스크립트 뿐 아니라 HTML, CSS도 잘 정리된 곳
+- [JS 가이드](https://medium.com/@wongni/6%EA%B0%9C%EC%9B%94-%EC%95%88%EC%97%90-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B6%81%EA%B7%B9%EC%9D%98-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%8B%A8-3%EB%A7%8C-%EC%9B%90%EC%9C%BC%EB%A1%9C-430e26ad2448) - 자바스크립트를 어떤식으로 배워야할지 
 
 ### React
 
