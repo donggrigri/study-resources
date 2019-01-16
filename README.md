@@ -45,7 +45,7 @@
 - [Careercup](https://www.careercup.com/)
 
 ## ETC
-
+- [TypeScript 한글번역](https://typescript-kr.github.io/pages/Generics.html)
 - [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
 
 ## 면접 준비
